@@ -1,13 +1,22 @@
 {
-  "name": "codeblog",
+  "name": "codestack-brasil",
+  "description": "A Gatsby blog develop in the series 'Creating a blog with React and Gatsby'",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "author": "João Pedro Schmitz <jpedroschmitz@hotmail.com> (https://www.codestack-brasil/)",
+  "license": "MIT",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpedroschmitz/codestack-brasil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jpedroschmitz/codestack-brasil/issues"
+  },
   "scripts": {
     "develop": "gatsby develop",
     "dev": "npm run develop",
     "serve": "gatsby serve",
-    "build": "gatsby build",
+    "build": "gatsby build"
   },
   "keywords": [
     "gatsby",

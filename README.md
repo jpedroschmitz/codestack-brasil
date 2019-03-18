@@ -13,10 +13,10 @@ Then, you can clone this repository and run the following commands inside the pr
 
 ## To do list
 
-1. Reponsive;
-2. Add ESLint configurations;
+1. Create responsive;
+2. Add ESLint;
 3. Add Husky;
-4. Tests and tests
+4. Tests and tests;
 5. Be creative :)
 
 ## Authors
