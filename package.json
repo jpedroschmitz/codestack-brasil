@@ -24,8 +24,6 @@
     "react",
     "blog"
   ],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "gatsby": "^2.1.13",
     "gatsby-plugin-catch-links": "^2.0.11",
